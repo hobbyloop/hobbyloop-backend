@@ -1,0 +1,5 @@
+# 프레젠테이션 게층 개발 환경 설정
+
+server:
+  port: ${APPLICATION.SEVER.PORT:8080}
+
